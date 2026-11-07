@@ -1,0 +1,22 @@
+{
+  "wheel_id": 814,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-109",
+  "project": "retaining-wall-contractors-faq-1eae0e31f859ff5fa8aa769e955178d0",
+  "parent_t1_ref": "retainingwallcontractors-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors faq",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-contractors-faq-1eae0e31f859ff5fa8aa769e955178d0/",
+  "tier": "T2",
+  "writeback_nonce": "b16724687592091a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-contractors-local-options-compared-417f07e1440e6/",
+      "anchor": "this retaining wall contractors local options compared guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
